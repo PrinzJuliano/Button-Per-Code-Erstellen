@@ -92,7 +92,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
-				ORGANIZATIONNAME = "Julian Frauenholz";
+				ORGANIZATIONNAME = "PJOG Mobile Applications";
 				TargetAttributes = {
 					B9EA56021D102F5C00679509 = {
 						CreatedOnToolsVersion = 7.3.1;
